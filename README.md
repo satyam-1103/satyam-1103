@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **satyamsrivastava052@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/1c1WzHdALLgxWyNweMGaEHQoHyVvdTPHT/view?usp=drivesdk](https://drive.google.com/file/d/1c1WzHdALLgxWyNweMGaEHQoHyVvdTPHT/view?usp=drivesdk)
+- 📄 Check out my resume [https://drive.google.com/file/d/1I4neFWQmRZLZArnNtMHVXFnkXWdc7Hqb/view?usp=sharing](https://drive.google.com/file/d/1I4neFWQmRZLZArnNtMHVXFnkXWdc7Hqb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
