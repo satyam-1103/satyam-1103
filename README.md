@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [satyamsrivastava-portfolio.netlify.app](satyamsrivastava-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://satyamsrivastava-portfolio.netlify.app](satyamsrivastava-portfolio.netlify.app)
 
 - 📫 How to reach me **satyamsrivastava052@gmail.com**
 
