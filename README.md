@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://satyamsrivastava-portfolio.netlify.app](https://satyamsrivastava-portfolio.netlify.app)
 
-- 📫 Reach me through email **mailto://satyamsrivastava052@gmail.com**
+- 📫 Reach me through email **satyamsrivastava052@gmail.com**
 
 - 📄 Check out my resume [Google Drive](https://drive.google.com/file/d/1ONv8YmvL3cIBc3SJ0hjQFelBbrpdlv-u/view)
 
