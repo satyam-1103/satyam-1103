@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satyam Srivastava</h1>
 <h3 align="center">Passionate Frontend Developer from New Delhi, India</h3>
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 All of my projects are available at [https://satyamsrivastava-portfolio.netlify.app](https://satyamsrivastava-portfolio.netlify.app)
 
-- 📫 How to reach me **satyamsrivastava052@gmail.com**
+- 📫 Reach me through email **mailto://satyamsrivastava052@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/1I4neFWQmRZLZArnNtMHVXFnkXWdc7Hqb/view?usp=sharing](https://drive.google.com/file/d/1I4neFWQmRZLZArnNtMHVXFnkXWdc7Hqb/view?usp=sharing)
+- 📄 Check out my resume [Google Drive](https://drive.google.com/file/d/1ONv8YmvL3cIBc3SJ0hjQFelBbrpdlv-u/view)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
