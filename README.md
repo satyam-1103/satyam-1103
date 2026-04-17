@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Srivastava</h1>
-<h3 align="center">Passionate Frontend Developer from New Delhi, India</h3>
+<h3 align="center">Full Stack Developer from New Delhi, India</h3>
 
 - 👨‍💻 All of my projects are available at [https://satyamsrivastava-portfolio.netlify.app](https://satyamsrivastava-portfolio.netlify.app)
 
