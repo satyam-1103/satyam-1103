@@ -55,13 +55,11 @@ I enjoy working across the complete development lifecycle — from designing API
 
 ---
 
-
----
-
 ## 🤝 Let's Connect
 I'm always open to:
 - Collaboration opportunities
 - Full Stack Developer roles
 - MERN Stack opportunities
+- Backend Developer roles
 Email : satyamsrivastava052@gmail.com
 ---
