@@ -2,7 +2,7 @@
 
 ## Full Stack Web Developer | MERN Stack Developer | Problem Solver
 
-I'm a Full Stack Web Developer focused on building scalable web applications, clean backend architectures, and modern user experiences.
+I'm a Full Stack Web Developer with over 2+ years of experience focused on building scalable web applications, clean backend architectures, and modern user experiences.
 
 I enjoy working across the complete development lifecycle — from designing APIs and authentication systems to building responsive frontend interfaces and deploying production-ready applications.
 
@@ -17,22 +17,27 @@ I enjoy working across the complete development lifecycle — from designing API
 - Tailwind CSS
 - Bootstrap
 - HTML5 & CSS3
+- Laravel Blade
 
 ### Backend
 - Node.js
 - Express.js
 - PHP
 - Laravel
+- Java
 
 ### Database
 - MongoDB
 - MySQL
+- Firestore
+- Supabase
 
 ### Tools & Platforms
 - Git & GitHub
 - Postman
 - Vercel
 - Render
+- AWS
 - MongoDB Atlas
 - Firebase
 
@@ -40,7 +45,7 @@ I enjoy working across the complete development lifecycle — from designing API
 
 ## 💡 What I Focus On
 
-- Building scalable MERN stack applications
+- Building scalable web applications
 - REST API development
 - JWT Authentication & Authorization
 - Backend architecture & modular code structure
@@ -50,22 +55,6 @@ I enjoy working across the complete development lifecycle — from designing API
 
 ---
 
-## 🛠 Featured Project Areas
-
-- Authentication Systems
-- AI Resume Analyzer
-- Admin Dashboards
-- Scraper-based Applications
-- Booking Systems
-
----
-
-## 📈 Currently Learning
-
-- Data Structures & Algorithms
-- Advanced Backend Architecture
-- System Design Concepts
-- Scalable Application Development
 
 ---
 
